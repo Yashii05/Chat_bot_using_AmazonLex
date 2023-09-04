@@ -6,5 +6,6 @@ A simple bot made using AWS Amazon Lex to order pizza with various other options
 Amazon Lex is an AWS service for building conversational interfaces for applications using voice and text. Amazon Lex provides the deep functionality and flexibility of natural language understanding (NLU) and automatic speech recognition (ASR) so you can build highly engaging user experiences with lifelike, conversational interactions, and create new categories of products.
 
 ## Useful Resources
-These are some of the useful resources to help you get started creating your first bot
-[Amazon Lex](https://docs.aws.amazon.com/lex/latest/dg/what-is.html)
+These are some of the useful resources to help you get started creating your first bot.
+
+1. [Amazon Lex](https://docs.aws.amazon.com/lex/latest/dg/what-is.html)
