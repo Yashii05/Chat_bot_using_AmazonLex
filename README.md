@@ -23,7 +23,7 @@ i) category : Slot variable to take input from user.
 
 ii) WelcomeIntent : Intent for greeting user.
 
-iii) RecommendMovie : Intent for suggesting type of pizza.
+iii) RecommendPizza : Intent for suggesting type of pizza.
 
 ## Amazon Lex Console configuration of my bot:
 
