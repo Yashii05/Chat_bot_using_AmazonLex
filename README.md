@@ -20,7 +20,9 @@ These are some of the useful resources to help you get started creating your fir
 These are some things you can customize:
 
 i) category : Slot variable to take input from user.
+
 ii) WelcomeIntent : Intent for greeting user.
+
 iii) RecommendMovie : Intent for suggesting type of pizza.
 
 ## Amazon Lex Console configuration of my bot:
